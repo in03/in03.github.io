@@ -1,0 +1,32 @@
+# The URL the site will be built for
+base_url = "https://atira.io"
+theme = "particle-zola"
+
+title = "Atira.io"
+description = "DIY editing tools, scripts and digital-haberdashery"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = true
+
+# The default language; used in feeds.
+default_language = "en"
+
+[extra]
+# User settings
+username = "Caleb Trevatt"
+user_description = "If 'Creative Investigator' sounds like a vague cop-out, you're right! I have many great professional interests, hobbies and persusasions, both creative and technical. Follow along if you like a unique interesection of both!"
+user_title = "Creative Investigator"
+email = "in03@duck.com"
+twitter_username = "Caleb_Trevatt"
+github_username =  "in03"
+gplus_username =  "in03"
+
+# Google-analytics
+google_analytics.id = ""
