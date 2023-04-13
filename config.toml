@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "https://atira.io"
+base_url = "https://in03.github.io"
 theme = "particle-zola"
 
-title = "Atira.io"
+title = "Caleb Trevatt"
 description = "DIY editing tools, scripts and digital-haberdashery"
 
 # Whether to automatically compile all Sass files in the sass directory
