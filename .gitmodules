@@ -1,3 +1,6 @@
 [submodule "themes/particle-zola"]
 	path = themes/particle-zola
 	url = https://github.com/svavs/particle-zola.git
+[submodule "themes/adidoks"]
+	path = themes/adidoks
+	url = https://github.com/aaranxu/adidoks
