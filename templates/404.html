@@ -1,0 +1,28 @@
+{% import "macros.html" as macros %}
+{% import "content.html" as content %}
+
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ macros::head() }}
+
+  <body>
+
+    {{ macros: rive_canvas() }}
+
+    <div id="particles-js">
+        <div class="header">
+            <h1>
+              <span class="site-title">404</span>
+              <span class="site-description">Sorry! We looked all over...</span>
+            </h1>
+            <div class="header-links">
+
+            </div>
+        </div>
+      </div>
+
+      {{ macros::footer() }}
+      {{ macros::google_analytics() }}
+
+  </body>
