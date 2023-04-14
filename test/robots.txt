@@ -1,4 +1,4 @@
 User-agent: *
-Disallow:
 Allow: /
-Sitemap: https://in03.github.io/sitemap.xml
+
+Sitemap: https://adidoks.netlify.com/sitemap.xml
