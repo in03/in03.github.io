@@ -33,7 +33,7 @@
 
 # The URL the site will be built for
 theme = "particle-zola"
-base_url = "/"
+base_url = "https://caleb.trevatt.co"
 
 title = "A blog about lorem ipsum dolor sit amet"
 description = "A blog about lorem ipsum dolor sit amet"
