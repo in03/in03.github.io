@@ -31,6 +31,8 @@
 # # Google-analytics
 # google_analytics.id = ""
 
+theme = "adidoks"
+
 # The URL the site will be built for
 base_url = "https://adidoks.netlify.com"
 title = "AdiDoks"
