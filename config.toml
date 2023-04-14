@@ -32,6 +32,7 @@
 # google_analytics.id = ""
 
 # The URL the site will be built for
+theme = "particle-zola"
 base_url = "/"
 
 title = "A blog about lorem ipsum dolor sit amet"
